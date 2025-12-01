@@ -1,4 +1,4 @@
-Migrated to [https://codeberg.org/Fonzie-byte/uid-rs](https://codeberg.org/Fonzie-byte/uid-rs)
+> Migrated to [https://codeberg.org/Fonzie-byte/uid-rs](https://codeberg.org/Fonzie-byte/uid-rs)
 
 # uid-rs
 Simple but fairly unique and lexicographically sortable ID without "special" characters, in Rust.
